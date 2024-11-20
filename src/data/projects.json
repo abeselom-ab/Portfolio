@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-commerce",
+    "imageSrc": "projects/e-commerce-1.JPG",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React.js", "Express", "Node.js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Movie Database",
+    "imageSrc": "projects/movies.JPG",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Vue.js", "Node.js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Personal Blog",
+    "imageSrc": "projects/post.JPG",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Laravel"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

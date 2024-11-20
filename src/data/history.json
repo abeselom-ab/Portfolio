@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Development",
+    "organisation": "Tech companies",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Contributed to various IT projects", "Worked on web development and system integration solutions"],
+    "imageSrc": "history/tech.png"
+  },
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "Freelance Projects",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Developed an e-commerce website using React.js, Node.js, and MongoDB", "Created a movie database using Vue.js and Node.js"],
+    "imageSrc": "history/freelance.png"
+  }
+]
